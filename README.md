@@ -1,5 +1,4 @@
-# House-Prices-Preprocessing-Assignment
-Data preprocessing and feature engineering for the House Prices dataset
+
 # House Prices: Data Preprocessing (Assignment 1)
 
 ## Project Overview
